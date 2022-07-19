@@ -14,7 +14,7 @@ public class Validation_Pestania_2 implements Question <Boolean>{
             return false;
            }
 
-           public Validation_Pestania_2 validPest2(){
+           public Validation_Pestania_2 exitosa(){
         return new Validation_Pestania_2();
            }
 }

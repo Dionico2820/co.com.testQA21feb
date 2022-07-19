@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Text box" skipped="0" tests="1" time="15.84" timestamp="2022-07-03 05:08:55"><testcase name="TEXT BOX"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Text box" skipped="0" tests="1" time="36.44" timestamp="2022-07-18 04:08:32"><testcase name="TEXT BOX"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
 co.com.testQA21feb.tasks.TextBox.performAs(TextBox.java:21)&#13;
 co.com.testQA21feb.stepdefinitions.text.TextStep.queDavidAbrePagina(TextStep.java:21)&#13;
 cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
